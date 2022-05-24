@@ -29,3 +29,5 @@ console.log(area2);
 
 //const
 //variaveis que nao podem ser modificadas durante o codigo
+
+// variaveis possuem tipagem dinamica
