@@ -2,6 +2,7 @@
   "name": "node-training",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/moraespc/node-training/issues"
   },
-  "homepage": "https://github.com/moraespc/node-training#readme"
+  "homepage": "https://github.com/moraespc/node-training#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "latest": "^0.2.0",
+    "npm": "^8.10.0"
+  }
 }
